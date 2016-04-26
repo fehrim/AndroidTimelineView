@@ -8,6 +8,9 @@ import java.util.Map;
  */
 public class CellAdapterManager {
 
+
+    //fehrim
+
     private static final CellAdapterManager manager = new CellAdapterManager();
 
     private Map<Integer, BaseLineCellAdapter> adapterMap = new HashMap<>();
